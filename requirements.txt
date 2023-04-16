@@ -1,0 +1,3 @@
+youtube-dl==2021.12.17
+youtube-search-python==1.6.6
+yt-dlp==2023.3.4
