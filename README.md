@@ -10,6 +10,7 @@ yt_dlp
 youtubesearchpython
 ffmpeg
 ```
++ install ffmpeg using this [documentation](https://ffmpeg.org/download.html)
 You can install these libraries using `pip`, the Python package manager. Run the following command in your terminal:
 
 
