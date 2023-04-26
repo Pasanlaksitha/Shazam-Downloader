@@ -24,7 +24,10 @@ def csv_reader(file_name):
                     shazam_file_name = song_title + ' - ' + artist_name
                     link, yt_title_name, shazam_file_name = youtube_search(shazam_file_name, file_number) #youtube search link by name
                     downloader(link, yt_title_name, shazam_file_name)   #youtube Download mp3 by link
-                    log(shazam_file_name)
+                    try:
+                        log(shazam_file_name)
+                    except:
+                        pass
                     print(f"{line_count}/{num_rows} files downloaded")
                 else:
                     pass
@@ -57,7 +60,7 @@ def downloader(link, yt_title_name, shazam_file_name):
     print("Download complete... {}".format(shazam_file_name))
 
 def log(song):
-    log = open('log.txt', 'a')
+    log = open('log.txt', 'a', encoding="utf8")
     log.write(f"{time} \t {song} \n")
 
 
