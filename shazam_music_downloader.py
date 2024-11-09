@@ -30,7 +30,7 @@ def csv_reader(file_name):
                     line_count += 1
                     file_number, song_title, artist_name = row[0], row[2], row[3]
                     
-                    # Construct the filename without .mp3 to avoid duplicates
+                    #youtube search link by name
                     shazam_file_name = f"{artist_name} - {song_title}"
                     
                     # Skip if the file is already downloaded
