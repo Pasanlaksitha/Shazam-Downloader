@@ -1,48 +1,550 @@
 Shazam Library
 Index,TagTime,Title,Artist,URL,TrackKey
-1,2023-04-02,"Mtg - Insurdecedora 3.0","DJ LZIN",https://www.shazam.com/track/647182029/mtg-insurdecedora-3-0,647182029
-2,2023-04-02,"As the World Caves In (Wuki Remix)","Sarah Cothran & Wuki",https://www.shazam.com/track/581960541/as-the-world-caves-in-wuki-remix,581960541
-3,2023-04-02,"Hometown","twenty one pilots",https://www.shazam.com/track/263074259/hometown,263074259
-4,2023-04-02,"Clandestina","Salar",https://www.shazam.com/track/504623312/clandestina,504623312
-5,2023-04-02,"Something In the Way","Nirvana",https://www.shazam.com/track/54307684/something-in-the-way,54307684
-6,2023-03-17,"Bangarang (feat. Sirah)","Skrillex",https://www.shazam.com/track/54865869/bangarang-feat-sirah,54865869
-7,2023-03-17,"Bonnona","DJ JNK, SHAN PUTHA & Moniyo",https://www.shazam.com/track/578651369/bonnona,578651369
-8,2022-10-30,"Beat Sn4p (Viral Tiktok)","Sr. Nescau",https://www.shazam.com/track/630373199/beat-sn4p-viral-tiktok,630373199
-9,2022-10-29,"MTG - MALDIÇÃO ETERNA 1.0 (JOKA DA)","Swuaï",https://www.shazam.com/track/622272182/mtg-maldi%C3%A7%C3%A3o-eterna-1-0-joka-da,622272182
-10,2022-10-28,"Limitless","Martin Garrix & Mesto",https://www.shazam.com/track/609410353/limitless,609410353
-11,2022-10-24,"NEON BLADE","MoonDeity",https://www.shazam.com/track/616490430/neon-blade,616490430
-12,2022-10-24,"The Realest (Short Ver)","Emifav",https://www.shazam.com/track/621064941/the-realest-short-ver,621064941
-13,2022-10-20,"All Good Things (Come To An End)","Nelly Furtado",https://www.shazam.com/track/44336790/all-good-things-come-to-an-end,44336790
-14,2022-10-19,"NEON BLADE","MoonDeity",https://www.shazam.com/track/616490430/neon-blade,616490430
-15,2022-10-09,"drivers license","Olivia Rodrigo",https://www.shazam.com/track/549952578/drivers-license,549952578
-16,2022-09-25,"Mtg Maldicao Eterna 1.0 / Joker Fire Force","Axim",https://www.shazam.com/track/622365279/mtg-maldicao-eterna-10-joker-fire-force,622365279
-17,2022-09-17,"death bed (feat. beabadoobee) [coffee for your head]","Powfu",https://www.shazam.com/track/457848911/death-bed-coffee-for-your-head-feat-beabadoobee,457848911
-18,2022-09-17,"Can't Take My Eyes Off You","Joseph Vincent",https://www.shazam.com/track/330131882/cant-take-my-eyes-off-you,330131882
-19,2022-09-06,"Lokiverse (Background Score)","Anirudh Ravichander",https://www.shazam.com/track/622654024/lokiverse-background-score,622654024
-20,2022-09-05,"Somebody That I Used to Know (feat. Kimbra)","Gotye",https://www.shazam.com/track/55638435/somebody-that-i-used-to-know-feat-kimbra,55638435
-21,2022-08-29,"Shootout (Sped Up)","Izzamuzzic & Julien Marchal",https://www.shazam.com/track/617294554/shootout-sped-up,617294554
-22,2022-08-26,"Kimnotyze (feat. Lil' Kim & Trooper Da Don)","DJ Tomekk",https://www.shazam.com/track/20082309/kimnotyze-feat-lil-kim-trooper-da-don,20082309
-23,2022-08-23,"Cancan","As Des As",https://www.shazam.com/track/288706842/cancan,288706842
-24,2022-08-23,"Viramaye","Ridma Weerawardena & Thilina Boralessa",https://www.shazam.com/track/606046565/viramaye,606046565
-25,2022-08-23,"Can You Feel My Heart","Bring Me The Horizon",https://www.shazam.com/track/85594109/can-you-feel-my-heart,85594109
-26,2022-08-22,"R&B 2017","DJ Jonathan",https://www.shazam.com/track/355336173/r-b-2017,355336173
-27,2022-08-10,"Experience","Ludovico Einaudi, Daniel Hope & I Virtuosi Italiani",https://www.shazam.com/track/78484595/experience,78484595
-28,2022-07-31,"Show Me Your Back","FindMyName",https://www.shazam.com/track/620982211/show-me-your-back,620982211
-29,2022-07-25,"Love Story","Pedrox",https://www.shazam.com/track/623029825/love-story,623029825
-30,2022-07-12,"Safe And Sound","Capital Cities",https://www.shazam.com/track/90166754/safe-and-sound,90166754
-31,2022-07-01,"No Reason (feat. Truwer)","Miyagi & Эндшпиль",https://www.shazam.com/track/370360964/no-reason-feat-truwer,370360964
-32,2022-07-01,"Did I Stutter (Prolly My Spookiest Beat)","Exteezy",https://www.shazam.com/track/614263508/did-i-stutter-prolly-my-spookiest-beat,614263508
-33,2022-07-01,"Prolly My Spookiest Beat","prodby668",https://www.shazam.com/track/606789494/prolly-my-spookiest-beat,606789494
-34,2022-06-28,"Espero Seas Feliz","Récords 205",https://www.shazam.com/track/605643629/espero-seas-feliz,605643629
-35,2022-06-28,"Despacito","Luis Fonsi & Daddy Yankee",https://www.shazam.com/track/337807025/despacito,337807025
-36,2022-06-28,"After Dark","Mr.Kitty",https://www.shazam.com/track/140516014/after-dark,140516014
-37,2022-06-28,"The Realest (Short Ver)","Emifav",https://www.shazam.com/track/621064941/the-realest-short-ver,621064941
-38,2022-06-28,"Money Rain (Phonk Remix)","VTORNIK",https://www.shazam.com/track/573716826/money-rain-phonk-remix,573716826
-39,2022-06-28,"Time for Africa","Jack'sauce",https://www.shazam.com/track/147653239/-,147653239
-40,2022-06-28,"Weekend","Jordan Burns",https://www.shazam.com/track/365463304/weekend,365463304
-41,2022-06-28,"Cornfield Chase","Hans Zimmer",https://www.shazam.com/track/162170101/cornfield-chase,162170101
-42,2022-06-28,"Rover (DuckHead Remix)","S1mba Feat. DTG",https://www.shazam.com/track/616043160/rover-duckhead-remix,616043160
-43,2022-06-27,"Despacito","Uncle Noon",https://www.shazam.com/track/554999316/despacito,554999316
-44,2022-06-27,"The Search","NF",https://www.shazam.com/track/469294460/the-search,469294460
-45,2022-06-07,"Battle Royale (Feat. Panther) [VIP]","Apashe",https://www.shazam.com/track/111144896/battle-royale-feat-panther-vip,111144896
-46,2022-06-06,"Shake Senora (feat. T-Pain & Sean Paul)","Pitbull",https://www.shazam.com/track/53573134/shake-senora-feat-t-pain-sean-paul,53573134
+1,2024-09-18,"Tenerife (Arcalis Remix)","Gitano",https://www.shazam.com/track/61326443/tenerife-arcalis-remix,61326443
+2,2024-09-18,"Don't Go","Saikik",https://www.shazam.com/track/517791769/dont-go,517791769
+3,2024-09-18,"Mystery (Adrian Alexander Extended Dub Mix)","Aressa & Amanda Darling",https://www.shazam.com/track/536731706/mystery-adrian-alexander-extended-dub-mix,536731706
+4,2024-09-18,"No Sleep","4LX",https://www.shazam.com/track/437606562/no-sleep,437606562
+5,2024-09-18,"Владивосток 2000 (Phonk Remix By BRUSH1K & MXRGX)","Мумий Тролль",https://www.shazam.com/track/541215821/-,541215821
+6,2024-09-13,"Therefore I Am (UNDREAM Remix)","Billie Eilish",https://www.shazam.com/track/552006701/therefore-i-am-undream-remix,552006701
+7,2024-08-06,"Sangat","Beatriz Pérez",https://www.shazam.com/track/599408454/sangat,599408454
+8,2024-08-05,"Bimma","Rampa",https://www.shazam.com/track/355321651/bimma,355321651
+9,2024-07-31,"Sad (Imanbek Remix)","Rasster",https://www.shazam.com/track/518365954/sad-imanbek-xxx-remix,518365954
+10,2024-05-31,"fukumean","Gunna",https://www.shazam.com/track/669519704/fukumean,669519704
+11,2024-05-31,"The Tribal Code","Teklix",https://www.shazam.com/track/561564448/the-tribal-code,561564448
+12,2024-05-30,"Dana Dana (ft. Rima)","AVÖ, guapo & Cheb Rayan",https://www.shazam.com/track/693497110/dana-dana-ft-rima,693497110
+13,2024-03-28,"UP!","Forrest Frank & Connor Price",https://www.shazam.com/track/692867727/up,692867727
+14,2024-02-23,"Guess Who?","Quadeca",https://www.shazam.com/track/683387939/guess-who,683387939
+15,2024-02-12,"Fame","David Bowie",https://www.shazam.com/track/229497/fame,229497
+16,2024-02-05,"MONTAGEM CORAL (feat. Mc Cyclope)","DJ Holanda, Mc Gw & MC TH",https://www.shazam.com/track/675387106/montagem-coral-feat-mc-cyclope,675387106
+17,2024-01-06,"Multimillonario Monaco","Modo Bachata",https://www.shazam.com/track/684478279/multimillonario-monaco,684478279
+18,2023-12-14,"Chop Suey (Bourne Again X Hugh Graham Remix)","System Of A Down",https://www.shazam.com/track/436591678/chop-suey-bourne-again-x-hugh-graham-remix,436591678
+19,2023-12-03,"Teşkilat Türküsü (Remix)","Mevlüt Can Kaplan",https://www.shazam.com/track/543821198/tes-kilat-tu-rku-su-remix,543821198
+20,2023-12-01,"Sleepy Time Dollar Signs (feat. Lakey Inspired)","The CreatoR 300",https://www.shazam.com/track/381475774/sleepy-time-dollar-signs-feat-lakey-inspired,381475774
+21,2023-11-06,"Breathing (Shiva In Exile)","DJ Cary",https://www.shazam.com/track/59148696/breathing-shiva-in-exile,59148696
+22,2023-11-01,"Nasty Girl (feat. Diddy, Nelly, Jagged Edge and Avery Storm)","The Notorious B.I.G.",https://www.shazam.com/track/42401062/nasty-girl-feat-diddy-nelly-jagged-edge-and-avery-storm,42401062
+23,2023-10-16,"Flip It (feat. Dem Jointz) [VIP]","Levity",https://www.shazam.com/track/679126345/flip-it-feat-dem-jointz-vip,679126345
+24,2023-10-11,"Hurricane","Marina Maximilian",https://www.shazam.com/track/314491967/hurricane,314491967
+25,2023-10-04,"WHOLE LOTTA MONEY","BIA",https://www.shazam.com/track/546919515/whole-lotta-money,546919515
+26,2023-10-04,"Whole Lotta Money","XCO Splash",https://www.shazam.com/track/576966824/whole-lotta-money,576966824
+27,2023-09-26,"Slow Hours","weird inside",https://www.shazam.com/track/295858361/slow-hours,295858361
+28,2023-09-19,"Ur Final Message (Radio Edit)","SLICK KILLA",https://www.shazam.com/track/543848653/ur-final-message-radio-edit,543848653
+29,2023-07-14,"Para Bailar Juntos F","German Giacometti",https://www.shazam.com/track/599256918/para-bailar-juntos-f,599256918
+30,2023-07-12,"Body (feat. Capo Plaza & Rondodasosa) [Remix]","Tion Wayne & Russ Millions",https://www.shazam.com/track/568321679/body-feat-capo-plaza-rondodasosa-remix,568321679
+31,2023-06-30,"Why You Wanna (Radio Version)","T.I.",https://www.shazam.com/track/44158393/why-you-wanna-radio-version,44158393
+32,2023-06-30,"Why You Wanna","T.I.",https://www.shazam.com/track/45647616/why-you-wanna,45647616
+33,2023-06-30,"Lay Low (feat. Master P, Nate Dogg, Butch Cassidy and Tha Eastsidaz)","Snoop Dogg, Nate Dogg, Master P, Tha Eastsidaz & Butch Cassidy",https://www.shazam.com/track/5165675/lay-low-feat-master-p-nate-dogg-butch-cassidy-and-tha,5165675
+34,2023-06-30,"Sittin' On Top Of The World","Burna Boy",https://www.shazam.com/track/667677119/sittin-on-top-of-the-world,667677119
+35,2023-05-27,"Queen of Kings","Alessandra",https://www.shazam.com/track/647046873/queen-of-kings,647046873
+36,2023-05-20,"Verbatim (Slowed Down)","Mother Mother",https://www.shazam.com/track/663936220/verbatim-slowed-down,663936220
+37,2023-05-17,"Miss You","Oliver Tree & Robin Schulz",https://www.shazam.com/track/626708777/miss-you,626708777
+38,2023-05-17,"הפינאלי (feat. אלונה טל)","Subliminal & The Shadow",https://www.shazam.com/track/54562021/%D7%94%D7%A4%D7%99%D7%A0%D7%90%D7%9C%D7%99-feat-%D7%90%D7%9C%D7%95%D7%A0%D7%94-%D7%98%D7%9C,54562021
+39,2023-05-06,"L'enfer Me Ment","Indika & Ozua",https://www.shazam.com/track/291821413/lenfer-me-ment,291821413
+40,2023-05-06,"One","5udo",https://www.shazam.com/track/315766122/one,315766122
+41,2023-05-06,"L'elisir D'amore","Frank Sonic",https://www.shazam.com/track/368220343/lelisir-damore,368220343
+42,2023-05-06,"Valley Drive","Adrien Kepler",https://www.shazam.com/track/400662871/valley-drive,400662871
+43,2023-05-06,"All I Have","Deadmau5",https://www.shazam.com/track/94122630/all-i-have,94122630
+44,2023-05-04,"L'elisir D'amore","Frank Sonic",https://www.shazam.com/track/368220343/lelisir-damore,368220343
+45,2023-05-04,"Roadtrip","Ann Clue & Boris Brejcha",https://www.shazam.com/track/319012961/roadtrip,319012961
+46,2023-05-04,"I Need U Now (Eight-seven mix)","Giangi Cappai",https://www.shazam.com/track/45965061/i-need-u-now-eight-seven-mix,45965061
+47,2023-05-03,"Space Song","Beach House",https://www.shazam.com/track/266491095/space-song,266491095
+48,2023-05-01,"Navajo","Masego",https://www.shazam.com/track/358456126/navajo,358456126
+49,2023-04-29,"Doubt (Original Mix)","Jeffrey Van Ham",https://www.shazam.com/track/58875546/doubt-original-mix,58875546
+50,2023-04-23,"We Don't Care","Ty",https://www.shazam.com/track/63280703/we-dont-care,63280703
+51,2023-04-23,"World Hold On (Club Mix)","Bob Sinclar",https://www.shazam.com/track/44156926/world-hold-on-club-mix,44156926
+52,2023-04-21,"Starlight","Dave",https://www.shazam.com/track/605948992/starlight,605948992
+53,2023-04-08,"Polozhenie","725",https://www.shazam.com/track/638614176/polozhenie,638614176
+54,2023-03-30,"Victory Road","LukeDerpwalker",https://www.shazam.com/track/577325159/victory-road,577325159
+55,2023-03-28,"Little Brown","Ayem Cemani",https://www.shazam.com/track/532557521/little-brown,532557521
+56,2023-03-28,"Little Brown","Ayem Cemani",https://www.shazam.com/track/532557521/little-brown,532557521
+57,2023-03-25,"Dang! (feat. Anderson .Paak)","Mac Miller",https://www.shazam.com/track/324736096/dang-feat-anderson-paak,324736096
+58,2023-03-22,"Miss the Rage (feat. D3$ & Solar)","1030Xhris",https://www.shazam.com/track/571491276/miss-the-rage-feat-d3%24-solar,571491276
+59,2023-03-20,"Gangsta's Paradise","Sanat Sawant & idksan",https://www.shazam.com/track/604006721/gangstas-paradise,604006721
+60,2023-02-27,"Parado no Bailão (feat. MC Gury)","MC L da Vinte & MC Gury",https://www.shazam.com/track/433511728/parado-no-bail%C3%A3o-feat-mc-gury,433511728
+61,2023-02-25,"Salaam Alaikum (feat. 4Teen)","KEK Boys",https://www.shazam.com/track/549861760/salaam-alaikum-feat-4teen,549861760
+62,2023-02-24,"Face Off","Tech N9ne, Joey Cool, King Iso & Dwayne Johnson",https://www.shazam.com/track/585735678/face-off,585735678
+63,2023-02-24,"Mad Mad World (feat. Sizzla Kalonji & Collie Buddz)","Shaggy",https://www.shazam.com/track/45428848/mad-mad-world-feat-sizzla-kalonji-collie-buddz,45428848
+64,2023-02-03,"Amend","j^p^n",https://www.shazam.com/track/383445215/amend,383445215
+65,2023-01-22,"Sweet Caroline","Neil Diamond",https://www.shazam.com/track/244298/sweet-caroline,244298
+66,2023-01-17,"30","Aitch",https://www.shazam.com/track/521275848/30,521275848
+67,2023-01-04,"Busy Earnin'","Jungle",https://www.shazam.com/track/106982821/busy-earnin,106982821
+68,2022-12-30,"Lost & Different","Nymano",https://www.shazam.com/track/459361734/lost-different,459361734
+69,2022-12-24,"Sácatela","La Femme",https://www.shazam.com/track/614781690/s%C3%A1catela,614781690
+70,2022-12-18,"METAMORPHOSIS (Slowed + Reverb)","INTERWORLD",https://www.shazam.com/track/619946485/metamorphosis-slowed-reverb,619946485
+71,2022-12-17,"שירת הסטיקר 2019 (feat. דויד גרוסמן, דני סנדרסון, אהובה עוזרי, דיקלה, תומר יוסף, עומרי גליקמן, גל ניסמן, פלד & אקו)","Hadag Nahash & פירקת אלנור",https://www.shazam.com/track/468154758/%D7%A9%D7%99%D7%A8%D7%AA-%D7%94%D7%A1%D7%98%D7%99%D7%A7%D7%A8-2019-feat-%D7%93%D7%95%D7%99%D7%93-%D7%92%D7%A8%D7%95%D7%A1%D7%9E%D7%9F-%D7%93%D7%A0%D7%99-%D7%A1%D7%A0%D7%93%D7%A8%D7%A1%D7%95%D7%9F-%D7%90%D7%94%D7%95%D7%91%D7%94,468154758
+72,2022-10-15,"Mutual Butterflies","Ryan Trey",https://www.shazam.com/track/371686783/mutual-butterflies,371686783
+73,2022-10-15,"MAFIA","Travis Scott",https://www.shazam.com/track/590909579/mafia,590909579
+74,2022-10-15,"Wild Irish Roses","Smino",https://www.shazam.com/track/342950139/wild-irish-roses,342950139
+75,2022-10-06,"Where Are You Now (Kungs Remix)","Lost Frequencies & Calum Scott",https://www.shazam.com/track/596183174/where-are-you-now-kungs-remix,596183174
+76,2022-09-19,"Hoist the Colours","Colm R. McGuinness",https://www.shazam.com/track/577483678/hoist-the-colours,577483678
+77,2022-09-06,"The Sorcerer's Apprentice","Leopold Stokowski & The Philadelphia Orchestra",https://www.shazam.com/track/5735025/the-sorcerers-apprentice,5735025
+78,2022-08-25,"Big Shot","Billy Joel",https://www.shazam.com/track/2873958/big-shot,2873958
+79,2022-08-21,"Flesh","Ghostemane",https://www.shazam.com/track/442537673/flesh,442537673
+80,2022-08-19,"Me and Your Mama","Childish Gambino",https://www.shazam.com/track/334379917/me-and-your-mama,334379917
+81,2022-08-18,"Back to Life (Birthdae)","ScurtDae",https://www.shazam.com/track/463486912/back-to-life-birthdae,463486912
+82,2022-07-31,"THE SCOTTS","THE SCOTTS, Travis Scott & Kid Cudi",https://www.shazam.com/track/515134608/the-scotts,515134608
+83,2022-07-29,"это ли счастье?","Rauf & Faik",https://www.shazam.com/track/465379060/%D1%8D%D1%82%D0%BE-%D0%BB%D0%B8-%D1%81%D1%87%D0%B0%D1%81%D1%82%D1%8C%D0%B5,465379060
+84,2022-07-18,"You're So Right","The Strokes",https://www.shazam.com/track/53228103/youre-so-right,53228103
+85,2022-07-18,"Thin Thing","The Smile",https://www.shazam.com/track/610392845/thin-thing,610392845
+86,2022-07-17,"Cheap Talk","Death from Above 1979",https://www.shazam.com/track/135287431/cheap-talk,135287431
+87,2022-06-18,"Walk Em Down (feat. Roddy Ricch)","NLE Choppa",https://www.shazam.com/track/510641817/walk-em-down-feat-roddy-ricch,510641817
+88,2022-06-10,"The Merry-Go-Round of Life (From the Movie "Howl's Moving Castle") [Acoustic Guitar With Burning Fireplace Sounds] [Cover]","Hamasaki vs Hamasaki",https://www.shazam.com/track/236404876/the-merry-go-round-of-life-from-the-movie-howls-moving,236404876
+89,2022-06-07,"I spoke to the devil in miami, he said everything would be fine","XXXTENTACION",https://www.shazam.com/track/345517056/i-spoke-to-the-devil-in-miami-he-said-everything-would-be-fine,345517056
+90,2022-06-07,"Tea","Bobolicener",https://www.shazam.com/track/336055788/tea,336055788
+91,2022-06-07,"Tea","Bobolicener",https://www.shazam.com/track/336055788/tea,336055788
+92,2022-06-07,"Tea","Bobolicener",https://www.shazam.com/track/336055788/tea,336055788
+93,2022-06-07,"Sippin' Tea in Yo Hood (feat. Meech La'flare)","Day$Tar",https://www.shazam.com/track/401522732/sippin-tea-in-yo-hood-feat-meech-laflare,401522732
+94,2022-06-06,"ALONE, PART 3","XXXTENTACION",https://www.shazam.com/track/410554127/alone-part-3,410554127
+95,2022-06-04,"Cloud Nine","Nawhij",https://www.shazam.com/track/509130953/cloud-nine,509130953
+96,2022-05-27,"Freed From Desire","Gala",https://www.shazam.com/track/5940328/freed-from-desire,5940328
+97,2022-05-26,"Mr. Morale","Kendrick Lamar & Tanna Leone",https://www.shazam.com/track/615657427/mr-morale,615657427
+98,2022-05-18,"MACHU PICCHU","Celo & Abdi",https://www.shazam.com/track/542909547/machu-picchu,542909547
+99,2022-05-06,"Rigor Mortis","Cameo",https://www.shazam.com/track/314649/rigor-mortis,314649
+100,2022-05-06,"Sixty Minute Man","Rufus Thomas",https://www.shazam.com/track/5116766/sixty-minute-man,5116766
+101,2022-04-30,"Børd3rl1n3","VØNTII",https://www.shazam.com/track/582739205/b%C3%B8rd3rl1n3,582739205
+102,2022-04-29,"Invincible","Pop Smoke",https://www.shazam.com/track/507607201/invincible,507607201
+103,2022-04-27,"Babel","Gustavo Bravetti",https://www.shazam.com/track/594879106/babel,594879106
+104,2022-04-11,"Valley of Misery","HOLOCHAUST",https://www.shazam.com/track/67058743/valley-of-misery,67058743
+105,2022-02-26,"We Didn't Start the Fire","Billy Joel",https://www.shazam.com/track/46837946/we-didnt-start-the-fire,46837946
+106,2022-02-26,"Bette Davis Eyes","Kim Carnes",https://www.shazam.com/track/10924562/bette-davis-eyes,10924562
+107,2022-02-26,"אני איתך","Avraham Tal",https://www.shazam.com/track/200917028/%D7%90%D7%A0%D7%99-%D7%90%D7%99%D7%AA%D7%9A,200917028
+108,2022-02-17,"Close Eyes","DVRST",https://www.shazam.com/track/571888639/close-eyes,571888639
+109,2022-02-17,"Carefree","Mick Jenkins",https://www.shazam.com/track/505391572/carefree,505391572
+110,2022-01-22,"Eureka","Stepz",https://www.shazam.com/track/588753329/eureka,588753329
+111,2022-01-09,"Jezus krouedur","Rosemary Standley",https://www.shazam.com/track/593520089/jezus-krouedur,593520089
+112,2022-01-07,"014","Free Flow Flava",https://www.shazam.com/track/529477263/014,529477263
+113,2022-01-07,"Inner Force","Free Flow Flava",https://www.shazam.com/track/537365103/inner-force,537365103
+114,2022-01-07,"Black & White","Free Flow Flava",https://www.shazam.com/track/468465809/black-white,468465809
+115,2022-01-07,"Say My Name","Free Flow Flava",https://www.shazam.com/track/437412459/say-my-name,437412459
+116,2022-01-07,"Chidori","Free Flow Flava",https://www.shazam.com/track/382943137/chidori,382943137
+117,2022-01-06,"Guardian","Tristam",https://www.shazam.com/track/92497682/guardian,92497682
+118,2022-01-03,"Heathen (feat. Eddy Baker)","BONES",https://www.shazam.com/track/435930637/heathen-feat-eddy-baker,435930637
+119,2021-12-27,"4:44","JAY-Z",https://www.shazam.com/track/363204231/4-44,363204231
+120,2021-12-25,"Six Days (feat. Mos Def) [Remix]","DJ Shadow",https://www.shazam.com/track/20024226/six-days-feat-mos-def-remix,20024226
+121,2021-12-24,"Light Spirit","Lofi Parad1se",https://www.shazam.com/track/529933295/light-spirit,529933295
+122,2021-12-22,"Wish You Were Here","Purrple Cat",https://www.shazam.com/track/564235199/wish-you-were-here,564235199
+123,2021-12-20,"Smuggler's Corridor","The Aristocrats",https://www.shazam.com/track/261881063/smugglers-corridor,261881063
+124,2021-12-17,"Concerto Grosso for Strings "Palladio": I. Allegretto","Pavel Lyubomudrov & Metamorphose String Orchestra",https://www.shazam.com/track/539746449/concerto-grosso-for-strings-palladio-i-allegretto,539746449
+125,2021-12-17,"Seed of Peace","Lofi Music Station",https://www.shazam.com/track/560536492/seed-of-peace,560536492
+126,2021-12-15,"Hero (Goku)","Megamanx1",https://www.shazam.com/track/584051610/hero-goku,584051610
+127,2021-12-15,"Положение (Izzamuzzic Remix)","Skryptonite",https://www.shazam.com/track/571430063/%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-izzamuzzic-remix,571430063
+128,2021-12-14,"She Make It Clap Freestyle","lostmp3",https://www.shazam.com/track/581517613/she-make-it-clap-freestyle,581517613
+129,2021-12-11,"Maldives (Original Mix)","SubStance & Music System Power",https://www.shazam.com/track/62600936/maldives-original-mix,62600936
+130,2021-12-10,"Havin Thangs","Buntasparks Feat. Devd Mvne",https://www.shazam.com/track/571357116/havin-thangs,571357116
+131,2021-12-10,"Ghostface Killers (feat. Travis Scott)","21 Savage, Offset & Metro Boomin",https://www.shazam.com/track/381452173/ghostface-killers-feat-travis-scott,381452173
+132,2021-11-24,"Mais Um","Souleance",https://www.shazam.com/track/98777422/mais-um,98777422
+133,2021-10-30,"Deceive (feat. Sune Rose Wagner) [Trentemøller Club Mix Dub Version]","Trentemøller",https://www.shazam.com/track/122043264/deceive-feat-sune-rose-wagner-trentem%C3%B8ller-club-mix,122043264
+134,2021-10-15,"All In My Head (Flex) [feat. Fetty Wap]","Fifth Harmony",https://www.shazam.com/track/319345920/all-in-my-head-flex-feat-fetty-wap,319345920
+135,2021-10-15,"Love Tonight","Shouse",https://www.shazam.com/track/385133121/love-tonight,385133121
+136,2021-10-09,"love nwantiti (feat. Axel & Dj Yo!) [Remix]","CKay",https://www.shazam.com/track/567763978/love-nwantiti-feat-axel-dj-yo-remix,586095928
+137,2021-09-24,"Brooklyn (feat. TumaniYO)","Miyagi & Andy Panda",https://www.shazam.com/track/515579143/brooklyn-feat-tumaniyo,515579143
+138,2021-09-21,"Day&Night (feat. Kloud9 & Dallis Joyner)","Sunshine Walker",https://www.shazam.com/track/531479064/day-night-feat-kloud9-dallis-joyner,531479064
+139,2021-09-21,"2020, Pt. 2","Sunshine Walker",https://www.shazam.com/track/500218520/2020-pt-2,500218520
+140,2021-09-17,"Cornflake","Psychedelic Porn Crumpets",https://www.shazam.com/track/312737737/cornflake,312737737
+141,2021-09-17,"I Wish I Was Someone Better","Blood Red Shoes",https://www.shazam.com/track/45855783/i-wish-i-was-someone-better,45855783
+142,2021-09-13,"יאפאוויה","סיסטם עאלי",https://www.shazam.com/track/503365635/%D7%99%D7%90%D7%A4%D7%90%D7%95%D7%95%D7%99%D7%94,503365635
+143,2021-09-11,"Give It to Me","HOMESHAKE",https://www.shazam.com/track/269726325/give-it-to-me,269726325
+144,2021-09-11,"Carnaval De Paris (Radio Mix)","Dario G",https://www.shazam.com/track/261596/carnaval-de-paris-radio-mix,261596
+145,2021-09-10,"Jah Is One 2021","Mosh Ben Ari, Tzealon & Dor Gal",https://www.shazam.com/track/569928344/jah-is-one-2021,569928344
+146,2021-08-29,"Grown Up","Danny Brown",https://www.shazam.com/track/58007308/grown-up,58007308
+147,2021-08-14,"Liberation (with Cee-Lo)","Outkast",https://www.shazam.com/track/3190549/liberation-with-cee-lo,3190549
+148,2021-08-14,"Call","WizTheMc",https://www.shazam.com/track/483751856/call,483751856
+149,2021-07-25,"Eller Eller","Nazan Şoray",https://www.shazam.com/track/411003304/eller-eller,411003304
+150,2021-07-13,"I WANNA BE YOUR SLAVE","Måneskin",https://www.shazam.com/track/560227366/i-wanna-be-your-slave,560227366
+151,2021-06-18,"Inn Ann (feat. Shabjdeed)","Daboor",https://www.shazam.com/track/566955813/inn-ann-feat-shabjdeed,566955813
+152,2021-06-16,"Cupid's Chokehold (Featuring Patrick Stump)","Gym Class Heroes",https://www.shazam.com/track/44558453/cupids-chokehold-featuring-patrick-stump,44558453
+153,2021-06-10,"Not Friendly","Flo Milli",https://www.shazam.com/track/427938067/not-friendly,427938067
+154,2021-06-09,"Safe To Say","Aitch",https://www.shazam.com/track/521276469/safe-to-say,521276469
+155,2021-06-09,"Rumours","Ivorian Doll",https://www.shazam.com/track/512211656/rumours,512211656
+156,2021-05-24,"UP LIKE AN INSOMNIAC (Freestyle)","XXXTENTACION",https://www.shazam.com/track/400954459/up-like-an-insomniac-freestyle,400954459
+157,2021-05-24,"RIP Roach (feat. $ki Mask The Slump God)","XXXTENTACION",https://www.shazam.com/track/321166137/rip-roach-feat-%24ki-mask-the-slump-god,321166137
+158,2021-05-08,"Streets","Doja Cat",https://www.shazam.com/track/502331040/streets,502331040
+159,2021-05-06,"Check","Young Thug",https://www.shazam.com/track/257583818/check,257583818
+160,2021-04-03,"As the Years Go By","Mashmakhan",https://www.shazam.com/track/45325683/as-the-years-go-by,45325683
+161,2021-03-20,"The King Has Lost His Crown","ABBA",https://www.shazam.com/track/5239335/the-king-has-lost-his-crown,5239335
+162,2021-03-13,"Could This Be Real","Sub Focus",https://www.shazam.com/track/50279913/could-this-be-real,50279913
+163,2021-02-27,"Goosebumps","HVME",https://www.shazam.com/track/519644245/goosebumps,519644245
+164,2021-02-03,"Brownie","Martin Ruihz",https://www.shazam.com/track/452979701/brownie,452979701
+165,2021-02-03,"Comfortably Numb (Performance Track Without Background Vocals)","Keynote Performance Track",https://www.shazam.com/track/472965502/comfortably-numb-performance-track-without-background,472965502
+166,2021-02-01,"Genius (feat. Sia, Diplo & Labrinth)","LSD",https://www.shazam.com/track/415558826/genius-feat-sia-diplo-labrinth,415558826
+167,2021-01-31,"Smells Like Drill Spirit","LowOrbit",https://www.shazam.com/track/550905992/smells-like-drill-spirit,550905992
+168,2021-01-29,"Come Together","Gary Clark Jr. & Junkie XL",https://www.shazam.com/track/349685072/come-together,349685072
+169,2020-12-10,"Hasimla Mimadrid (Dor Danino & Morris Remix)","Monica Sex",https://www.shazam.com/track/531597687/hasimla-mimadrid-dor-danino-morris-remix,531597687
+170,2020-11-30,"Look Over Your Shoulder (feat. Kendrick Lamar)","Busta Rhymes",https://www.shazam.com/track/441982720/look-over-your-shoulder-feat-kendrick-lamar,441982720
+171,2020-11-30,"Streets Favorite","Capone",https://www.shazam.com/track/41245965/streets-favorite,41245965
+172,2020-11-27,"Ameno","ERA",https://www.shazam.com/track/274676/ameno,274676
+173,2020-11-27,"Blah Blah Blah (Extended Mix)","Armin van Buuren",https://www.shazam.com/track/419203146/blah-blah-blah-extended-mix,419203146
+174,2020-11-27,"Ganesha","Henrique Camacho & Zigma",https://www.shazam.com/track/344705265/ganesha,344705265
+175,2020-11-25,"Sum 2 Prove","Lil Baby",https://www.shazam.com/track/505879612/sum-2-prove,505879612
+176,2020-11-18,"Distant Light","Altitude Music",https://www.shazam.com/track/438965721/distant-light,438965721
+177,2020-11-01,"Flesh","Ghostemane",https://www.shazam.com/track/442537673/flesh,442537673
+178,2020-10-30,"California Dreamin'","The Mamas & The Papas",https://www.shazam.com/track/59365382/california-dreamin,422691
+179,2020-10-30,"Czar","Busta Rhymes & M.O.P.",https://www.shazam.com/track/540282806/czar,540282806
+180,2020-10-30,"Thanks Sorry","Kasper Lindmark",https://www.shazam.com/track/501905938/thanks-sorry,501905938
+181,2020-10-30,"The End of the World","Sharon Van Etten",https://www.shazam.com/track/342713535/the-end-of-the-world,342713535
+182,2020-10-07,"I'm Not Made By Design","Nothing But Thieves",https://www.shazam.com/track/362651434/im-not-made-by-design,362651434
+183,2020-09-29,"Bout My Bidness (feat. Infms)","Stevvie",https://www.shazam.com/track/503309270/bout-my-bidness-feat-infms,503309270
+184,2020-09-28,"The Banjo Beat, Pt. 1","Ricky Desktop",https://www.shazam.com/track/534766072/the-banjo-beat-pt-1,534766072
+185,2020-09-26,"Home At Last","Steely Dan",https://www.shazam.com/track/269313/home-at-last,269313
+186,2020-09-23,"Moving","H E R B",https://www.shazam.com/track/402569297/moving,402569297
+187,2020-09-23,"Home Tree, Pt. 1 (feat. HM Surf & Lucid)","Tikur",https://www.shazam.com/track/515881987/home-tree-pt-1-feat-hm-surf-lucid,515881987
+188,2020-09-23,"Mighty","junior state",https://www.shazam.com/track/476780139/mighty,476780139
+189,2020-09-23,"Dream Sign","Aarigod",https://www.shazam.com/track/486137028/dream-sign,486137028
+190,2020-09-23,"Happy","Kasper Lindmark",https://www.shazam.com/track/429986669/happy,429986669
+191,2020-09-19,"UP LIKE AN INSOMNIAC (Freestyle)","XXXTENTACION",https://www.shazam.com/track/400954459/up-like-an-insomniac-freestyle,400954459
+192,2020-09-17,"Death Don't Have No Mercy","Reverend Gary Davis",https://www.shazam.com/track/5619969/death-dont-have-no-mercy,5619969
+193,2020-09-14,"I Am Going Home","Roseaux & Ben l'Oncle Soul",https://www.shazam.com/track/461885554/i-am-going-home,461885554
+194,2020-09-12,"Mad About The Boy","Dinah Washington",https://www.shazam.com/track/301727/mad-about-the-boy,301727
+195,2020-09-11,"Down In the DM","Yo Gotti",https://www.shazam.com/track/285750815/down-in-the-dm,285750815
+196,2020-09-08,"Renegade (feat. Eminem)","JAY-Z",https://www.shazam.com/track/5168470/renegade-feat-eminem,5168470
+197,2020-09-07,"Nobody To Love (Extended Mix)","Sigma",https://www.shazam.com/track/108625893/nobody-to-love-extended-mix,105686803
+198,2020-09-01,"Falling","Trevor Daniel",https://www.shazam.com/track/442211179/falling,442211179
+199,2020-08-26,"By Mistake","Young Dolph",https://www.shazam.com/track/437570055/by-mistake,437570055
+200,2020-08-15,"Ghetto Supastar (That Is What You Are)","Pras",https://www.shazam.com/track/5957894/ghetto-supastar-that-is-what-you-are,5957894
+201,2020-08-15,"If I Had","Eminem",https://www.shazam.com/track/221554/if-i-had,221554
+202,2020-08-14,"New World (feat. Matisyahu, Bumpin Uglies & the Elovaters)","Tropidelic",https://www.shazam.com/track/525659322/new-world-feat-matisyahu-bumpin-uglies-the-elovaters,525659322
+203,2020-07-31,"Drop The Game","Flume & Chet Faker",https://www.shazam.com/track/102021150/drop-the-game,102021150
+204,2020-07-12,"Big Girls","Masego",https://www.shazam.com/track/491716231/big-girls,491716231
+205,2020-06-15,"Alaska","Cordae",https://www.shazam.com/track/437090686/alaska,437090686
+206,2020-06-15,"Lord Is Coming (feat. Cordae)","H.E.R.",https://www.shazam.com/track/471054802/lord-is-coming-feat-cordae,471054802
+207,2020-06-09,"Long Wait","Ömer Faruk Tekbilek",https://www.shazam.com/track/65251525/long-wait,65251525
+208,2020-06-07,"Everyone (And Their Mom)","theAngelcy",https://www.shazam.com/track/454970763/everyone-and-their-mom,454970763
+209,2020-06-05,"Mejor Sigamos Así","Yuchán",https://www.shazam.com/track/332577710/mejor-sigamos-as%C3%AD,332577710
+210,2020-06-05,"Love Is Stronger Than Death","The The",https://www.shazam.com/track/10823496/love-is-stronger-than-death,10823496
+211,2020-05-28,"That's Amore","Dean Martin",https://www.shazam.com/track/232635/thats-amore,232635
+212,2020-05-27,"חופשי ומאושר","Boaz Sharabi",https://www.shazam.com/track/56170095/%D7%97%D7%95%D7%A4%D7%A9%D7%99-%D7%95%D7%9E%D7%90%D7%95%D7%A9%D7%A8,56170095
+213,2020-04-24,"Dancin (Krono Remix) [feat. Luvli]","Aaron Smith",https://www.shazam.com/track/86465795/dancin-krono-remix-feat-luvli,86465795
+214,2020-04-05,"Images","importmedia",https://www.shazam.com/track/470441253/images,470441253
+215,2020-03-31,"Leyenda","Andrés Segovia ‎",https://www.shazam.com/track/353212083/leyenda,353212083
+216,2020-03-29,"Ticket To Ride","Carpenters",https://www.shazam.com/track/10660525/ticket-to-ride,220620
+217,2020-03-20,"Vena","Vena",https://www.shazam.com/track/266914029/vena,266914029
+218,2020-02-23,"Celebrate Your Mind","Funk'n'stein",https://www.shazam.com/track/136114248/celebrate-your-mind,136114248
+219,2020-02-17,"Black Betty","Ram Jam",https://www.shazam.com/track/10538731/black-betty,275643
+220,2020-02-16,"Un Sorriso","Milva",https://www.shazam.com/track/317272298/un-sorriso,317272298
+221,2020-02-16,"Rockets (feat. Moe Moks)","LION BABE",https://www.shazam.com/track/341038468/rockets-feat-moe-moks,341038468
+222,2020-02-12,"Prima Donna (feat. A$AP Rocky)","Vince Staples",https://www.shazam.com/track/480501893/prima-donna-feat-a%24ap-rocky,327799889
+223,2020-02-08,"Point","Milkz",https://www.shazam.com/track/469718402/point,469718402
+224,2020-02-04,"Come Back and Finish What You Started","Gladys Knight & The Pips",https://www.shazam.com/track/10000311/come-back-and-finish-what-you-started,10000311
+225,2020-01-31,"Not So Bad (feat. Emie)","Yves V & Ilkay Sencan",https://www.shazam.com/track/504744544/not-so-bad-feat-emie,504744544
+226,2020-01-22,"You Don't Love Me (No No No)","Dawn Penn",https://www.shazam.com/track/2898826/you-dont-love-me-no-no-no,2898826
+227,2020-01-17,"Payback","Dimitri Vangelis & Wyman & Steve Angello",https://www.shazam.com/track/114907302/payback,114907302
+228,2020-01-14,"I Love You, Phil","Francis Lai",https://www.shazam.com/track/397407/i-love-you-phil,397407
+229,2020-01-14,"Theme from Love Story","Francis Lai",https://www.shazam.com/track/397427/theme-from-love-story,397427
+230,2020-01-13,"Thuggish Ruggish Bone","Bone Thugs-n-Harmony",https://www.shazam.com/track/309157/thuggish-ruggish-bone,309157
+231,2020-01-06,"Mile High (feat. Travis Scott & Metro Boomin)","James Blake",https://www.shazam.com/track/454012595/mile-high-feat-travis-scott-metro-boomin,454012595
+232,2020-01-05,"Goajira","Los Incas",https://www.shazam.com/track/155924089/goajira,155924089
+233,2020-01-05,"Subo","Los Incas",https://www.shazam.com/track/51101461/subo,51101461
+234,2020-01-05,"Dos Palomitas","Los Incas",https://www.shazam.com/track/110575298/dos-palomitas,110575298
+235,2020-01-04,"Vermilion Pt. 2","Slipknot",https://www.shazam.com/track/40332208/vermilion-pt-2,40332208
+236,2019-12-30,"Prelude to El Bozo","Chick Corea",https://www.shazam.com/track/10953078/prelude-to-el-bozo,10953078
+237,2019-12-30,"Adagio in G Minor","Claudio Scimone & I Solisti Veneti",https://www.shazam.com/track/55039019/adagio-in-g-minor,55039019
+238,2019-12-27,"GRoCERIES (feat. TisaKorean & Murda Beatz)","Chance the Rapper",https://www.shazam.com/track/468004709/groceries-feat-tisakorean-murda-beatz,468004709
+239,2019-12-25,"When Your Heart Breaks (feat. Melker)","Mondays",https://www.shazam.com/track/402528355/when-your-heart-breaks-feat-melker,402528355
+240,2019-12-15,"RNP (feat. Anderson .Paak)","Cordae",https://www.shazam.com/track/479083650/rnp-feat-anderson-paak,479083650
+241,2019-12-13,"Love Me Less","MAX & Quinn XCII",https://www.shazam.com/track/462037575/love-me-less,462037575
+242,2019-12-11,"Ac Rite","Nolanberollin",https://www.shazam.com/track/503202015/ac-rite,503202015
+243,2019-12-11,"On This (feat. Chip, Ice Kid & Little D)","Wiley",https://www.shazam.com/track/338283484/on-this-feat-chip-ice-kid-little-d,338283484
+244,2019-12-10,"Distant Past","Everything Everything",https://www.shazam.com/track/230228469/distant-past,230228469
+245,2019-12-09,"Swerve","Arizona Zervas",https://www.shazam.com/track/339921791/swerve,339921791
+246,2019-12-08,"on god","bbno$ & Lewis Grant",https://www.shazam.com/track/502663293/on-god,502663293
+247,2019-12-05,"The World Is Yours","Nas",https://www.shazam.com/track/11166948/the-world-is-yours,256927
+248,2019-11-28,"Malibu Sleep","Col3trane",https://www.shazam.com/track/381616659/malibu-sleep,381616659
+249,2019-11-25,"Me Sale Bien","Pachará",https://www.shazam.com/track/464792061/me-sale-bien,464792061
+250,2019-11-20,"Brother's Keeper (feat. Pusha T)","Anderson .Paak",https://www.shazam.com/track/448425038/brothers-keeper-feat-pusha-t,448425038
+251,2019-11-16,"Love & Hate","Michael Kiwanuka",https://www.shazam.com/track/327177955/love-hate,309638075
+252,2019-11-14,"Hive (feat. Vince Staples & Casey Veggies)","Earl Sweatshirt",https://www.shazam.com/track/91901448/hive-feat-vince-staples-casey-veggies,91901448
+253,2019-11-05,"Allah Elohim","Shye Ben-Tzur, Jonny Greenwood & The Rajasthan Express",https://www.shazam.com/track/294852660/allah-elohim,294852660
+254,2019-11-05,"Tainyan","LayerZ",https://www.shazam.com/track/498482041/tainyan,498482041
+255,2019-11-02,"Black Hole Sun","Handsome Hank And His Lonesome Boys",https://www.shazam.com/track/40320358/black-hole-sun,40320358
+256,2019-11-01,"Follow God","Kanye West",https://www.shazam.com/track/500837521/follow-god,500837521
+257,2019-11-01,"Stuck In A Dream (feat. Gunna)","Lil Mosey",https://www.shazam.com/track/494973082/stuck-in-a-dream-feat-gunna,494973082
+258,2019-10-28,"I Think I Love You Again","Aaron Taylor",https://www.shazam.com/track/430739321/i-think-i-love-you-again,430739321
+259,2019-10-26,"Lava","Still Woozy",https://www.shazam.com/track/462751206/lava,462751206
+260,2019-10-26,"Can’t Stop (The Groove)","Schwey",https://www.shazam.com/track/441792682/cant-stop-the-groove,441792682
+261,2019-10-26,"All I Have To Do Is Dream","The Everly Brothers",https://www.shazam.com/track/10595748/all-i-have-to-do-is-dream,203806
+262,2019-10-26,"Lalala","Y2K & bbno$",https://www.shazam.com/track/467997443/lalala,467997443
+263,2019-10-25,"Hot (feat. Gunna)","Young Thug",https://www.shazam.com/track/487072583/hot-feat-gunna,487072583
+264,2019-10-20,"Malibu Sleep","Col3trane",https://www.shazam.com/track/381616659/malibu-sleep,381616659
+265,2019-10-20,"Shadow Man (feat. Smino, Phoelix & Saba)","Noname",https://www.shazam.com/track/325525612/shadow-man-feat-smino-phoelix-saba,325525612
+266,2019-10-13,"Waiting for You (feat. Swell)","Verzache",https://www.shazam.com/track/328128677/waiting-for-you-feat-swell,328128677
+267,2019-10-12,"Remembered","Des Brennan",https://www.shazam.com/track/417803157/remembered,417803157
+268,2019-10-12,"Chill Noons","Kronicle",https://www.shazam.com/track/462382322/chill-noons,462382322
+269,2019-10-08,"Experiment 1","Vibration Lab",https://www.shazam.com/track/124073558/experiment-1,124073558
+270,2019-10-07,"You Da One (Remix)","thesourwarhead",https://www.shazam.com/track/403547737/you-da-one-remix,403547737
+271,2019-10-01,"Wintertime","Cordae",https://www.shazam.com/track/479135089/wintertime,479135089
+272,2019-09-30,"Mouchwa Sal","Mach-Hommy Feat. THA GOD FAHIM & Ju Ju Gotti",https://www.shazam.com/track/356651296/mouchwa-sal,356651296
+273,2019-09-28,"A Long Walk (Groove)","Jill Scott",https://www.shazam.com/track/227912/a-long-walk-groove,227912
+274,2019-09-22,"God Is Fair, Sexy Nasty (feat. Kendrick Lamar)","Mac Miller",https://www.shazam.com/track/329047120/god-is-fair-sexy-nasty-feat-kendrick-lamar,329047120
+275,2019-09-22,"Skin","Mac Miller",https://www.shazam.com/track/329047105/skin,329047105
+276,2019-09-22,"Lucky Ass Bitch (feat. Juicy J)","Mac Miller",https://www.shazam.com/track/58050367/lucky-ass-bitch-feat-juicy-j,86665338
+277,2019-09-22,"Watching Movies","Mac Miller",https://www.shazam.com/track/89222891/watching-movies,89222891
+278,2019-09-22,"Chamber of Reflection","Mac DeMarco",https://www.shazam.com/track/108982185/chamber-of-reflection,108982185
+279,2019-09-20,"GLOWED UP (feat. Anderson .Paak)","KAYTRANADA",https://www.shazam.com/track/315931792/glowed-up-feat-anderson-paak,315931792
+280,2019-08-30,"Everybody Needs a Man (feat. Maya Simantov)","Offer Nissim",https://www.shazam.com/track/158453567/everybody-needs-a-man-feat-maya-simantov,158453567
+281,2019-08-30,"El Sonido","DJ Shorty",https://www.shazam.com/track/324794608/el-sonido,324794608
+282,2019-08-29,"Best Friend (feat. NERVO, The Knocks & Alisa Ueno) [Remix]","Sofi Tukker & Oliver Heldens",https://www.shazam.com/track/406991799/best-friend-feat-nervo-the-knocks-alisa-ueno-remix,406991799
+283,2019-08-24,"All for Us (From the HBO Original Series Euphoria)","Labrinth & Zendaya",https://www.shazam.com/track/482534613/all-for-us-from-the-hbo-original-series-euphoria,482534613
+284,2019-08-24,"Photograph","J. Cole",https://www.shazam.com/track/414694215/photograph,414694215
+285,2019-08-23,"Professor Finessor","Bali Baby",https://www.shazam.com/track/453465553/professor-finessor,453465553
+286,2019-08-16,"We'll Be Fine","Sirens of Lesbos",https://www.shazam.com/track/417430781/well-be-fine,417430781
+287,2019-08-15,"Backseat Freestyle","Kendrick Lamar",https://www.shazam.com/track/71451479/backseat-freestyle,71451479
+288,2019-08-11,"Daffodils (feat. Kevin Parker)","Mark Ronson",https://www.shazam.com/track/221322516/daffodils-feat-kevin-parker,221322516
+289,2019-08-11,"Telephone (feat. Shuzin, Sol Monk & Yonatan Albalak)","Geshem",https://www.shazam.com/track/425341645/telephone-feat-shuzin-sol-monk-yonatan-albalak,425341645
+290,2019-08-11,"Clones (feat. Shuzin, Sol Monk & Yonatan Albalak)","Geshem",https://www.shazam.com/track/416555696/clones-feat-shuzin-sol-monk-yonatan-albalak,416555696
+291,2019-08-11,"Numb","Gary Clark Jr.",https://www.shazam.com/track/69555067/numb,69555067
+292,2019-07-30,"Toccata and Fugue in D Minor, BWV 565","Helmut Walcha",https://www.shazam.com/track/50999310/toccata-and-fugue-in-d-minor-bwv-565,50999310
+293,2019-07-30,"Suite No. 2 in D Minor: Sarabande","Johann Sebastian Bach",https://www.shazam.com/track/56899339/suite-no-2-in-d-minor-sarabande,56899339
+294,2019-07-29,"She's Creeping","Royal Blood",https://www.shazam.com/track/358963026/shes-creeping,358963026
+295,2019-07-29,"Repack the Junk","O Mer",https://www.shazam.com/track/470494698/repack-the-junk,470494698
+296,2019-07-29,"Anthem","O Mer",https://www.shazam.com/track/439565548/anthem,439565548
+297,2019-07-29,"Anthem","O Mer",https://www.shazam.com/track/439565548/anthem,439565548
+298,2019-07-29,"Semi-Automatic","O Mer",https://www.shazam.com/track/455006604/semi-automatic,455006604
+299,2019-07-26,"I've Got You Under My Skin","Frank Sinatra",https://www.shazam.com/track/359594/ive-got-you-under-my-skin,234182
+300,2019-07-23,"Bubblin (Remix) [feat. Busta Rhymes]","Anderson .Paak",https://www.shazam.com/track/431185979/bubblin-remix-feat-busta-rhymes,431185979
+301,2019-07-23,"The Mantra","Mike WiLL Made-It, Pharrell Williams & Kendrick Lamar",https://www.shazam.com/track/448473772/the-mantra,448473772
+302,2019-07-23,"Детство","Rauf & Faik",https://www.shazam.com/track/441267398/%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE,441267398
+303,2019-07-22,"Tumblr Girls (feat. Christoph Andersson)","G-Eazy",https://www.shazam.com/track/105582902/tumblr-girls-feat-christoph-andersson,105582902
+304,2019-07-13,"Be Careful","Cardi B",https://www.shazam.com/track/412260292/be-careful,412260292
+305,2019-07-11,"Beauty Beats","Beats Antique",https://www.shazam.com/track/52756986/beauty-beats,52756986
+306,2019-07-10,"I Walk Alone (Batista)","Saliva",https://www.shazam.com/track/44233561/i-walk-alone-batista,44233561
+307,2019-07-06,"Move Your Feet","Junior Senior",https://www.shazam.com/track/61914304/move-your-feet,11239249
+308,2019-07-06,"Venom","Ghostemane",https://www.shazam.com/track/323553754/venom,323553754
+309,2019-07-06,"Polaris","Ghostemane",https://www.shazam.com/track/374033378/polaris,374033378
+310,2019-07-05,"Kill Your$elf Part XIII The Atlanti$","$Uicideboy$",https://www.shazam.com/track/358158306/kill-yourelf-part-xiii-the-atlanti,358158306
+311,2019-07-05,"Kill Your$elf Part XIII The Atlanti$","$Uicideboy$",https://www.shazam.com/track/358158306/kill-yourelf-part-xiii-the-atlanti,358158306
+312,2019-07-05,"I Hung Myself for a Persona","$uicideboy$",https://www.shazam.com/track/374777560/i-hung-myself-for-a-persona,374777560
+313,2019-07-05,"Kill Your$elf Part XIII The Atlanti$","$Uicideboy$",https://www.shazam.com/track/358158306/kill-yourelf-part-xiii-the-atlanti,358158306
+314,2019-07-05,"Goodbye","$uicideboy$",https://www.shazam.com/track/374664583/goodbye,374664583
+315,2019-07-05,"Gloom","$uicideboy$",https://www.shazam.com/track/374658088/gloom,374658088
+316,2019-07-02,"A Girl Like You","Edwyn Collins",https://www.shazam.com/track/259864/a-girl-like-you,259864
+317,2019-07-02,"Light My Fire","Shirley Bassey",https://www.shazam.com/track/260661/light-my-fire,260661
+318,2019-06-17,"Eve","Ali Berger",https://www.shazam.com/track/315961889/eve,315961889
+319,2019-06-17,"Baby Baby","Tropkillaz",https://www.shazam.com/track/124530487/baby-baby,124530487
+320,2019-06-17,"Monster (Totally Normal Remix)","Milk N Cookies Feat. Alina Renae",https://www.shazam.com/track/238198649/monster-totally-normal-remix,238198649
+321,2019-06-17,"MMXIII","Tisoki Feat. Diamond Eyes",https://www.shazam.com/track/78498497/mmxiii,78498497
+322,2019-06-17,"Crown","Camila Cabello & Grey",https://www.shazam.com/track/400641788/crown,400641788
+323,2019-06-14,"Still Alive (Paul Van Dyk Mix)","Lisa Miskovsky",https://www.shazam.com/track/46678940/still-alive-paul-van-dyk-mix,46678940
+324,2019-06-07,"Lovely Day","Bill Withers",https://www.shazam.com/track/20009250/lovely-day,220200
+325,2019-06-07,"The Search","NF",https://www.shazam.com/track/469294460/the-search,469294460
+326,2019-05-29,"Long Train Runnin' (Full Guitar Mix)","The Doobie Brothers",https://www.shazam.com/track/280933516/long-train-runnin-full-guitar-mix,280933516
+327,2019-05-28,"Suede","NxWorries",https://www.shazam.com/track/297504182/suede,297504182
+328,2019-05-24,"Keep Going (feat. Cozy)","Panda Eyes & DatPhoria",https://www.shazam.com/track/291179268/keep-going-feat-cozy,291179268
+329,2019-05-21,"Mannish Boy","Muddy Waters",https://www.shazam.com/track/5902355/mannish-boy,300128
+330,2019-05-08,"I Can't Go On Without You","KALEO",https://www.shazam.com/track/260440248/i-cant-go-on-without-you,260440248
+331,2019-05-03,"Location","Khalid",https://www.shazam.com/track/318446890/location,318446890
+332,2019-05-01,"Aa","Ian mono & Jack Fresia",https://www.shazam.com/track/437621896/aa,437621896
+333,2019-05-01,"Pranava","Ace Ventura & Astrix",https://www.shazam.com/track/257454189/pranava,257454189
+334,2019-04-30,"Trance Party","Infected Mushroom",https://www.shazam.com/track/90997062/trance-party,90997062
+335,2019-04-30,"Jenny Don't Be Hasty","Paolo Nutini",https://www.shazam.com/track/44442470/jenny-dont-be-hasty,44442470
+336,2019-04-30,"Dreamer","theAngelcy",https://www.shazam.com/track/123370627/dreamer,123370627
+337,2019-04-29,"Deep Jungle Walk","Astrix",https://www.shazam.com/track/318222142/deep-jungle-walk,318222142
+338,2019-04-29,"Smells Like Teen Spirit (PONDORA Unofficial Remix) [Nirvana]","Pondora",https://www.shazam.com/track/342911923/smells-like-teen-spirit-pondora-unofficial-remix-nirvana,342911923
+339,2019-04-29,"Kakala","Pondora",https://www.shazam.com/track/402821987/kakala,402821987
+340,2019-04-29,"Kakala","Pondora",https://www.shazam.com/track/402821987/kakala,402821987
+341,2019-04-29,"Adhana","Vini Vici & Astrix",https://www.shazam.com/track/385129390/adhana,385129390
+342,2019-04-24,"Matilda","alt-J",https://www.shazam.com/track/55048792/matilda,55048792
+343,2019-04-24,"Nanã","Polo & Pan",https://www.shazam.com/track/321105344/nan%C3%A3,321105344
+344,2019-04-24,"Alive (Møme Vs Midnight To Monaco)","Møme & Midnight To Monaco",https://www.shazam.com/track/331922423/alive-m%C3%B8me-vs-midnight-to-monaco,331922423
+345,2019-04-23,"מרלין מונרו","Sheygets",https://www.shazam.com/track/208706455/%D7%9E%D7%A8%D7%9C%D7%99%D7%9F-%D7%9E%D7%95%D7%A0%D7%A8%D7%95,208706455
+346,2019-04-23,"I Am","Jorja Smith",https://www.shazam.com/track/405897698/i-am,405897698
+347,2019-04-23,"Hit That Jive","Gramatik",https://www.shazam.com/track/79863226/hit-that-jive,79863226
+348,2019-04-20,"You Don't Love Me (No No No)","Dawn Penn",https://www.shazam.com/track/2898826/you-dont-love-me-no-no-no,2898826
+349,2019-04-19,"Juke Jam (feat. Justin Bieber & Towkio)","Chance the Rapper",https://www.shazam.com/track/318860045/juke-jam-feat-justin-bieber-towkio,318860045
+350,2019-04-19,"I Ain't Mad At Cha (feat. Danny Boy)","2Pac",https://www.shazam.com/track/54428943/i-aint-mad-at-cha-feat-danny-boy,5217211
+351,2019-04-19,"Only God Can Judge Me (feat. Rappin' 4-Tay)","2Pac",https://www.shazam.com/track/20014672/only-god-can-judge-me-feat-rappin-4-tay,20014672
+352,2019-04-17,"Shluk Me'Ketzev","Talisman & מאור אדרי",https://www.shazam.com/track/357977192/%D7%A9%D7%9C%D7%95%D7%A7-%D7%9E%D7%A7%D7%A6%D7%91,357977192
+353,2019-04-16,"Ruling Dub","Groundation",https://www.shazam.com/track/43878958/ruling-dub,43878958
+354,2019-04-16,"נשאר בחיים (לייב)","Tuna",https://www.shazam.com/track/280358408/%D7%A0%D7%A9%D7%90%D7%A8-%D7%91%D7%97%D7%99%D7%99%D7%9D-%D7%9C%D7%99%D7%99%D7%91,280358408
+355,2019-04-13,"To Zion (feat. Carlos Santana)","Lauryn Hill",https://www.shazam.com/track/10312200/to-zion-feat-carlos-santana,10312200
+356,2019-04-07,"Évidemment","Lomepal",https://www.shazam.com/track/448335630/%C3%A9videmment,448335630
+357,2019-04-06,"להתחלק בעיר","Hadag Nahash",https://www.shazam.com/track/54537108/%D7%9C%D7%94%D7%AA%D7%97%D7%9C%D7%A7-%D7%91%D7%A2%D7%99%D7%A8,54537108
+358,2019-04-06,"Blue Lights","Jorja Smith",https://www.shazam.com/track/309338134/blue-lights,309338134
+359,2019-04-05,"She's so Untouchable","Garden City Movement",https://www.shazam.com/track/320384705/shes-so-untouchable,320384705
+360,2019-04-05,"Colors of the Rainbow (feat. Kathy) [feat. Kathy]","Sevenn",https://www.shazam.com/track/314594833/colors-of-the-rainbow-feat-kathy-feat-kathy,314594833
+361,2019-04-04,"Spirit Bird","Xavier Rudd",https://www.shazam.com/track/61542752/spirit-bird,61542752
+362,2019-04-03,"And I Say","Nicolas Jaar",https://www.shazam.com/track/222393251/and-i-say,222393251
+363,2019-04-03,"Dishonest","Nino Blu",https://www.shazam.com/track/410338848/dishonest,410338848
+364,2019-03-31,"Is This Love (Montmartre Remix)","Bob Marley",https://www.shazam.com/track/154946579/is-this-love-montmartre-remix,154946579
+365,2019-03-30,"Woman","Joel Culpepper",https://www.shazam.com/track/340353983/woman,340353983
+366,2019-03-30,"Sticky","Ravyn Lenae",https://www.shazam.com/track/385423755/sticky,385423755
+367,2019-03-30,"Wasn't Looking","ELIZA",https://www.shazam.com/track/378317432/wasnt-looking,378317432
+368,2019-03-30,"Sober","Mahalia",https://www.shazam.com/track/361470123/sober,361470123
+369,2019-03-16,"I Know a Place (Where We Can Carry On) [Single Remix]","Bob Marley & The Wailers",https://www.shazam.com/track/10750766/i-know-a-place-where-we-can-carry-on-single-remix,10750766
+370,2019-03-11,"Mungda (From "Total Dhamaal")","Jyotica Tangri, Shaan, Subhro Ganguly & Gourov Roshin",https://www.shazam.com/track/457812134/mungda-from-total-dhamaal,457812134
+371,2019-02-22,"Jesus Walks","Kanye West",https://www.shazam.com/track/223267892/jesus-walks,223267892
+372,2019-02-22,"Perfect Circle / God Speed","Mac Miller",https://www.shazam.com/track/285753210/perfect-circle-god-speed,285753210
+373,2019-02-22,"One Time 4 Your Mind","Nas",https://www.shazam.com/track/256938/one-time-4-your-mind,256938
+374,2019-02-19,"Om (feat. Emok, Vice)","LOUD",https://www.shazam.com/track/322105920/om-feat-emok-vice,322105920
+375,2019-02-19,"Sanación","Nicola Cruz",https://www.shazam.com/track/280862890/sanaci%C3%B3n,280862890
+376,2019-02-19,"La Cosecha","Nicola Cruz",https://www.shazam.com/track/280862912/la-cosecha,280862912
+377,2019-02-17,"Arty Boy (Tennyson Remix) [feat. Emma Louise]","Flight Facilities",https://www.shazam.com/track/374842000/arty-boy-tennyson-remix-feat-emma-louise,374842000
+378,2019-02-17,"1804","The Range",https://www.shazam.com/track/309322556/1804,309322556
+379,2019-02-17,"Movie","Tom Misch",https://www.shazam.com/track/379055328/movie,379055328
+380,2019-02-17,"All Related","Nessi Gomes",https://www.shazam.com/track/324403615/all-related,324403615
+381,2019-02-17,"Mary's Boy Child/Oh My Lord","Boney M.",https://www.shazam.com/track/46723644/marys-boy-child-oh-my-lord,229660
+382,2019-02-17,"With You","Tennyson",https://www.shazam.com/track/154650755/with-you,154650755
+383,2019-02-17,"7:00 Am","Tennyson",https://www.shazam.com/track/299485835/7-00-am,299485835
+384,2019-02-17,"Music for the Sun","Tiny Fingers",https://www.shazam.com/track/269972804/music-for-the-sun,269972804
+385,2019-02-14,"Natural Mystic","Bob Marley & The Wailers",https://www.shazam.com/track/92993579/natural-mystic,2887152
+386,2019-02-13,"Stil (feat. Cem Yildiz)","Acid Arab",https://www.shazam.com/track/329406449/stil-feat-cem-yildiz,329406449
+387,2019-02-12,"Angel","Massive Attack",https://www.shazam.com/track/231610/angel,231610
+388,2019-02-04,"Road to Zion (Featuring Nas)","Damian "Jr. Gong" Marley",https://www.shazam.com/track/41748065/road-to-zion-featuring-nas,41748065
+389,2019-02-04,"Rock Stone (feat. Capleton & Sizzla)","Stephen Marley",https://www.shazam.com/track/110826052/rock-stone-feat-capleton-sizzla,110826052
+390,2019-02-04,"ZEZE (feat. Travis Scott & Offset)","Kodak Black",https://www.shazam.com/track/443321905/zeze-feat-travis-scott-offset,443321905
+391,2019-02-04,"Wake Up in the Sky","Gucci Mane, Bruno Mars & Kodak Black",https://www.shazam.com/track/439575216/wake-up-in-the-sky,439575216
+392,2019-01-31,"Time","Alexey Grankowsky",https://www.shazam.com/track/274946172/time,274946172
+393,2019-01-31,"Toy Soldiers","Groove da Praia",https://www.shazam.com/track/267131257/toy-soldiers,267131257
+394,2019-01-27,"BOOM (Extended Mix)","Tiësto & Sevenn",https://www.shazam.com/track/360432773/boom-extended-mix,360432773
+395,2019-01-27,"I'm On 3.0 (feat. T.I., Dave East, Tee Grizzley, Royce da 5'9", Curren$y, DRAM, Snoop Dogg, Fabolous, Rick Ross, Chamillionaire, G-Eazy, Styles P, E-40, Mark Morrison & Gary Clark Jr.)","Trae tha Truth",https://www.shazam.com/track/360849969/im-on-3-0-feat-t-i-dave-east-tee-grizzley-royce-da,360849969
+396,2019-01-25,"Black Beatles (feat. Gucci Mane)","Rae Sremmurd",https://www.shazam.com/track/325327766/black-beatles-feat-gucci-mane,326182348
+397,2019-01-25,"Star Wars Theme / Cantina Band","Meco",https://www.shazam.com/track/5907839/star-wars-theme-cantina-band,5907839
+398,2019-01-25,"A Fifth of Beethoven","Walter Murphy",https://www.shazam.com/track/238692/a-fifth-of-beethoven,238692
+399,2019-01-25,"Money Trees","Trey Mack",https://www.shazam.com/track/447307529/money-trees,447307529
+400,2019-01-24,"One Dance","Shelly Sony",https://www.shazam.com/track/373056585/one-dance,373056585
+401,2019-01-23,"Shape of You","Sublime Reggae Kings",https://www.shazam.com/track/380110278/shape-of-you,380110278
+402,2019-01-21,"Secrets (feat. Vassy)","Tiësto & KSHMR",https://www.shazam.com/track/262717474/secrets-feat-vassy,235733235
+403,2019-01-12,"אללה מעאק","מאור אדרי",https://www.shazam.com/track/411905174/%D7%90%D7%9C%D7%9C%D7%94-%D7%9E%D7%A2%D7%90%D7%A7,411905174
+404,2019-01-10,"Sweet Dreams (Are Made of This)","Natty Bong",https://www.shazam.com/track/267131238/sweet-dreams-are-made-of-this,267131238
+405,2019-01-03,"DDU-DU DDU-DU","BLACKPINK",https://www.shazam.com/track/428139529/ddu-du-ddu-du,428139529
+406,2018-12-29,"Miss You (Major Lazer & Alvaro Remix)","Cashmere Cat, Major Lazer & Tory Lanez",https://www.shazam.com/track/412301147/miss-you-major-lazer-alvaro-remix,412301147
+407,2018-12-27,"True Lover (UOAK Remix)","Henri Purnell & Nathan Croma",https://www.shazam.com/track/406716757/true-lover-uoak-remix,406716757
+408,2018-12-16,"Ric Flair Drip","Offset & Metro Boomin",https://www.shazam.com/track/381496214/ric-flair-drip,383796479
+409,2018-12-15,"She Belongs to the Game","Troy Ave",https://www.shazam.com/track/292969118/she-belongs-to-the-game,292969118
+410,2018-11-27,"Moves (feat. Snoop Dogg)","Olly Murs",https://www.shazam.com/track/441274719/moves-feat-snoop-dogg,441274719
+411,2018-11-08,"Country Yard","Joseph Malik",https://www.shazam.com/track/441147349/country-yard,441147349
+412,2018-09-29,"Matador","Los Fabulosos Cadillacs",https://www.shazam.com/track/109630176/matador,10768837
+413,2018-09-21,"B","Jaden",https://www.shazam.com/track/383473658/b,383473658
+414,2018-09-16,"Hilf mir","Rammstein",https://www.shazam.com/track/42305773/hilf-mir,42305773
+415,2018-09-04,"Evil (Single Version)","Cactus",https://www.shazam.com/track/46847657/evil-single-version,46847657
+416,2018-08-12,"Game Face","Dj Usman Bhatti",https://www.shazam.com/track/403673566/game-face,403673566
+417,2018-08-04,"65th & Ingleside","Chance the Rapper",https://www.shazam.com/track/432174636/65th-ingleside,432174636
+418,2018-08-01,"Welcome to the Party (feat. Lil Pump, Juicy J, Famous Dex & French Montana) [Remix]","Diplo",https://www.shazam.com/track/432491339/welcome-to-the-party-feat-lil-pump-juicy-j-famous-dex,432491339
+419,2018-07-30,"At All","KAYTRANADA",https://www.shazam.com/track/96185293/at-all,96185293
+420,2018-07-18,"Later Bitches","The Prince Karma",https://www.shazam.com/track/402107013/later-bitches,402107013
+421,2018-07-15,"6 Days","Mahmut Orhan & Colonel Bagshot",https://www.shazam.com/track/371637042/6-days,371637042
+422,2018-07-06,"FRIENDS","Marshmello & Anne-Marie",https://www.shazam.com/track/405853837/friends,405853837
+423,2018-07-02,"Maggot Brain","Funkadelic",https://www.shazam.com/track/498069/maggot-brain,498069
+424,2018-06-28,"Tomorrow","Izabo",https://www.shazam.com/track/47319153/tomorrow,47319153
+425,2018-06-10,"La Louze","Shanguy",https://www.shazam.com/track/382250044/la-louze,382250044
+426,2018-06-01,"Daydream","Wallace Collection",https://www.shazam.com/track/96030198/daydream,96030198
+427,2018-05-23,"Vega","Meta",https://www.shazam.com/track/77810573/vega,77810573
+428,2018-05-06,"Another Love (Zwette Edit)","Tom Odell",https://www.shazam.com/track/98901555/another-love-zwette-edit,98901555
+429,2018-04-01,"Pyramid of Bones","The Voidz",https://www.shazam.com/track/409820713/pyramid-of-bones,409820713
+430,2018-03-28,"If I Can't","50 Cent",https://www.shazam.com/track/11232066/if-i-cant,11232066
+431,2018-03-28,"Next Level (Nyte Time Mix)","Show & A.G.",https://www.shazam.com/track/55241158/next-level-nyte-time-mix,55241158
+432,2018-03-27,"West Coast","Lana Del Rey",https://www.shazam.com/track/112905674/west-coast,112905674
+433,2018-03-25,"Helicopter","Bloc Party",https://www.shazam.com/track/40525832/helicopter,40525832
+434,2018-03-24,"X Gon' Give It To Ya","DMX",https://www.shazam.com/track/210392038/x-gon-give-it-to-ya,11250864
+435,2018-03-15,"Intergalactic","Beastie Boys",https://www.shazam.com/track/305570/intergalactic,305570
+436,2018-03-15,"Sabotage","Beastie Boys",https://www.shazam.com/track/236432/sabotage,236432
+437,2018-03-13,"Drunk Groove","MARUV & Boosin",https://www.shazam.com/track/384598645/drunk-groove,384598645
+438,2018-03-12,"Where’s Your Head At","Basement Jaxx",https://www.shazam.com/track/5170191/wheres-your-head-at,5170191
+439,2018-03-12,"Krack","Soulwax",https://www.shazam.com/track/377163300/krack,40443929
+440,2018-03-10,"Teenage Dirtbag","Wheatus",https://www.shazam.com/track/68331075/teenage-dirtbag,215794
+441,2018-02-24,"Water Jump","Daniel Avery",https://www.shazam.com/track/69093652/water-jump,69093652
+442,2018-02-22,"The Season/Carry Me","Anderson .Paak",https://www.shazam.com/track/296252737/the-season-carry-me,296252737
+443,2018-02-12,"Like Eye Did","Fil Bo Riva",https://www.shazam.com/track/318315373/like-eye-did,318315373
+444,2018-02-01,"Crown","Camila Cabello & Grey",https://www.shazam.com/track/400641788/crown,400641788
+445,2018-02-01,"Let Me Down (feat. Stormzy)","Jorja Smith",https://www.shazam.com/track/402116302/let-me-down-feat-stormzy,402116302
+446,2018-02-01,"If the Car Beside You Moves Ahead","James Blake",https://www.shazam.com/track/404206199/if-the-car-beside-you-moves-ahead,404206199
+447,2018-01-28,"Traveling Light (feat. Anderson .Paak)","Talib Kweli",https://www.shazam.com/track/376872617/traveling-light-feat-anderson-paak,376872617
+448,2018-01-27,"Loin (feat. Dany Synthé & soFLY & Nius) [Pilule Violette]","GIMS",https://www.shazam.com/track/327564879/loin-feat-dany-synth%C3%A9-sofly-nius-pilule-violette,327564879
+449,2018-01-25,"Chan Chan","Buena Vista Social Club",https://www.shazam.com/track/224297/chan-chan,224297
+450,2018-01-18,"Bambola","Betta Lemme",https://www.shazam.com/track/381239034/bambola,381239034
+451,2018-01-11,"When You Were Young","The Killers",https://www.shazam.com/track/68963322/when-you-were-young,44428996
+452,2018-01-04,"Africa 101","LOUD",https://www.shazam.com/track/322105924/africa-101,322105924
+453,2017-12-20,"Hail Mary","Makaveli",https://www.shazam.com/track/5188456/hail-mary,5188456
+454,2017-12-14,"We Don't Care","Audio Bullys",https://www.shazam.com/track/11238012/we-dont-care,11238012
+455,2017-11-08,"Junky","BROCKHAMPTON",https://www.shazam.com/track/371547125/junky,371547125
+456,2017-11-05,"Tears (feat. Louisa Johnson)","Clean Bandit",https://www.shazam.com/track/319965290/tears-feat-louisa-johnson,319965290
+457,2017-10-30,"Tadow","Masego & FKJ",https://www.shazam.com/track/358024239/tadow,358024239
+458,2017-10-23,"Tender Love","TroyBoi",https://www.shazam.com/track/372166650/tender-love,372166650
+459,2017-10-23,"I Know","Y2K & Lil Aaron Feat. Pollàri & Josh Pan",https://www.shazam.com/track/316992207/i-know,316992207
+460,2017-10-14,"Late Night (Solomun Remix)","Foals",https://www.shazam.com/track/90156439/late-night-solomun-remix,90156439
+461,2017-10-12,"Heavy Moss","Tatran",https://www.shazam.com/track/353616093/heavy-moss,353616093
+462,2017-10-12,"The Climb","Tatran",https://www.shazam.com/track/353616085/the-climb,353616085
+463,2017-10-12,"New Day (Original Mix)","DaMaxX",https://www.shazam.com/track/70202663/new-day-original-mix,70202663
+464,2017-09-09,"Attention","Charlie Puth",https://www.shazam.com/track/349501879/attention,349501879
+465,2017-08-16,"These Days","mike.",https://www.shazam.com/track/293278588/these-days,293278588
+466,2017-08-15,"Let's Get Lost","dEUS",https://www.shazam.com/track/480226/lets-get-lost,480226
+467,2017-08-08,"Summer Bummer (feat. A$AP Rocky & Playboi Carti)","Lana Del Rey",https://www.shazam.com/track/360404234/summer-bummer-feat-a%24ap-rocky-playboi-carti,360404234
+468,2017-08-08,"For the Damaged Coda","Blonde Redhead",https://www.shazam.com/track/61973764/for-the-damaged-coda,61973764
+469,2017-06-18,"Children (Radio Mix)","Dave Darell",https://www.shazam.com/track/46229679/children-radio-mix,46229679
+470,2017-06-16,"Nevermind","Dennis Lloyd",https://www.shazam.com/track/334608685/nevermind-alright,334608685
+471,2017-06-16,"Think About It","Dennis Lloyd",https://www.shazam.com/track/337850452/think-about-it,337850452
+472,2017-06-16,"Kickinit Alone","Kiefer",https://www.shazam.com/track/342716979/kickinit-alone,342716979
+473,2017-05-25,"It's All Understood","Jack Johnson",https://www.shazam.com/track/11158109/its-all-understood,11158109
+474,2017-05-24,"עיר בלי זיכרון","Aviv Guedj",https://www.shazam.com/track/53614379/%D7%A2%D7%99%D7%A8-%D7%91%D7%9C%D7%99-%D7%96%D7%99%D7%9B%D7%A8%D7%95%D7%9F,53614379
+475,2017-05-21,"Broken","Jacob Tillberg",https://www.shazam.com/track/356763527/broken,356763527
+476,2017-05-20,"Forever Young","Alphaville",https://www.shazam.com/track/40932063/forever-young,326216
+477,2017-05-12,"Between The Lines","Francis Novotny",https://www.shazam.com/track/344431376/between-the-lines,344431376
+478,2017-04-20,"Nothing Burns Like The Cold (feat. Vince Staples)","Snoh Aalegra",https://www.shazam.com/track/341983655/nothing-burns-like-the-cold-feat-vince-staples,341983655
+479,2017-04-13,"Fuego","Alok & Bhaskar",https://www.shazam.com/track/340541917/fuego,340541917
+480,2017-04-13,"People Get Up And Drive Your Funky Soul","James Brown",https://www.shazam.com/track/46881861/people-get-up-and-drive-your-funky-soul,46881861
+481,2017-04-11,"Reach Out I'll Be There","Four Tops",https://www.shazam.com/track/10913928/reach-out-ill-be-there,270973
+482,2017-04-10,"FOR MY PEOPLE","Joey Bada$$",https://www.shazam.com/track/342796246/for-my-people,342796246
+483,2017-04-03,"The Difference Between Us","The Dead Weather",https://www.shazam.com/track/52149199/the-difference-between-us,52149199
+484,2017-04-03,"I Feel Love (Every Million Miles)","The Dead Weather",https://www.shazam.com/track/280489549/i-feel-love-every-million-miles,280489549
+485,2017-04-03,"Open Up","The Dead Weather",https://www.shazam.com/track/280489551/open-up,280489551
+486,2017-03-28,"All I Need","Radiohead",https://www.shazam.com/track/45475299/all-i-need,45475299
+487,2017-03-11,"Endors Toi","Tame Impala",https://www.shazam.com/track/69077406/endors-toi,69077406
+488,2017-02-02,"Out Here","Frisco",https://www.shazam.com/track/110833241/out-here,110833241
+489,2017-02-01,"Bad and Boujee (feat. Lil Uzi Vert)","Migos",https://www.shazam.com/track/328704864/bad-and-boujee-feat-lil-uzi-vert,328704864
+490,2017-01-23,"Bam Bam","Sister Nancy",https://www.shazam.com/track/10172066/bam-bam,434586
+491,2017-01-23,"Cissy Strut","The Meters",https://www.shazam.com/track/362184/cissy-strut,362184
+492,2016-12-13,"The Cape","Guy Clark",https://www.shazam.com/track/5219139/the-cape,5219139
+493,2016-12-13,"Praise to the Lord the Almighty","Matt and Joanna Black",https://www.shazam.com/track/108955423/praise-to-the-lord-the-almighty,108955423
+494,2016-12-13,"Underworld","Fisherman & Hawkins",https://www.shazam.com/track/147446570/underworld,147446570
+495,2016-12-13,"Tell Me","Takaki Matsuda",https://www.shazam.com/track/55838144/tell-me,55838144
+496,2016-12-07,"Come Down","Anderson .Paak",https://www.shazam.com/track/302481643/come-down,302481643
+497,2016-11-29,"All In Forms","Bonobo",https://www.shazam.com/track/51933676/all-in-forms,51933676
+498,2016-11-13,"Clocktower (feat. Mia Vaile)","JINCO",https://www.shazam.com/track/330328580/clocktower-feat-mia-vaile,330328580
+499,2016-11-09,"Nik Dt","7liwa",https://www.shazam.com/track/318207426/nik-dt,318207426
+500,2016-11-07,"Lordly (feat. Alex Aiono)","Feder",https://www.shazam.com/track/327670594/lordly-feat-alex-aiono,327670594
+501,2016-10-14,"Green & Gold","Kate in the Kettle",https://www.shazam.com/track/111686284/green-gold,111686284
+502,2016-10-13,"In a Manner of Speaking (feat. Camille)","Nouvelle Vague",https://www.shazam.com/track/40375820/in-a-manner-of-speaking-feat-camille,40375820
+503,2016-10-10,"Can't Go Wrong","Wiley",https://www.shazam.com/track/319776639/cant-go-wrong,319776639
+504,2016-09-22,"goosebumps","Travis Scott",https://www.shazam.com/track/329152661/goosebumps,329152661
+505,2016-01-03,"Heart Attack (Snakehips Remix) [feat. Owl Eyes]","Flight Facilities",https://www.shazam.com/track/271990177/heart-attack-snakehips-remix-feat-owl-eyes,271990177
+506,2015-11-24,"First Day of My Life","Bright Eyes",https://www.shazam.com/track/40659413/first-day-of-my-life,40659413
+507,2015-11-20,"White Iverson","Post Malone",https://www.shazam.com/track/231110185/white-iverson,231110185
+508,2015-10-23,"Trap Tears (feat. Key)","Raury",https://www.shazam.com/track/288949162/trap-tears-feat-key,288949162
+509,2015-10-07,"Legends (feat. Kalibwoy)","Yellow Claw & Cesqeaux",https://www.shazam.com/track/153890856/legends-feat-kalibwoy,153890856
+510,2015-10-07,"7/11 (Skrillex & Diplo's Jack Ü Remix)","Beyoncé",https://www.shazam.com/track/223267689/711-skrillex-and-diplos-jack-%C3%BC-remix,223267689
+511,2015-10-07,"Wylin","Cesqeaux",https://www.shazam.com/track/238118263/wylin,238118263
+512,2015-10-07,"Till It Hurts (feat. Ayden) [LNY TNZ Remix]","Yellow Claw",https://www.shazam.com/track/238895858/till-it-hurts-feat-ayden-lny-tnz-remix,238895858
+513,2015-09-25,"Mesibat Kita","Ha'Eivrit",https://www.shazam.com/track/58554077/mesibat-kita,58554077
+514,2015-09-13,"Cornerstone","Arctic Monkeys",https://www.shazam.com/track/49891041/cornerstone,49891041
+515,2015-09-13,"Mr. Jones","Counting Crows",https://www.shazam.com/track/20149013/mr-jones,238609
+516,2015-08-13,"Around the World (feat. Fetty Wap)","Natalie La Rose",https://www.shazam.com/track/268176078/around-the-world-feat-fetty-wap,268176078
+517,2015-08-07,"Don't Tell 'Em (feat. YG)","Jeremih",https://www.shazam.com/track/123453646/dont-tell-em-feat-yg,123453646
+518,2015-08-06,"Bringing You Down","Russo & Weinberg",https://www.shazam.com/track/130342103/bringing-you-down,130342103
+519,2015-08-04,"Left Hand Free (Lido Remix)","alt-J",https://www.shazam.com/track/156979111/left-hand-free-lido-remix,156979111
+520,2015-07-28,"Pastime Paradise","Stevie Wonder",https://www.shazam.com/track/5168440/pastime-paradise,5168440
+521,2015-07-07,"Runaway (feat. Pusha T)","Kanye West",https://www.shazam.com/track/52689669/runaway-feat-pusha-t,52689669
+522,2015-07-02,"Everyday (feat. Rod Stewart x Miguel x Mark Ronson)","A$AP Rocky",https://www.shazam.com/track/263215404/everyday-feat-rod-stewart-x-miguel-x-mark-ronson,263215404
+523,2015-06-27,"Cannonball (Earthquake) [feat. Matthew Koma] [Radio Mix]","Showtek & Justin Prime",https://www.shazam.com/track/103354231/cannonball-earthquake-feat-matthew-koma-radio-mix,103354231
+524,2015-05-28,"50 Ways to Leave Your Lover","Paul Simon",https://www.shazam.com/track/440692/50-ways-to-leave-your-lover,237011
+525,2015-05-28,"I'm Shipping up to Boston","Dropkick Murphys",https://www.shazam.com/track/44640102/im-shipping-up-to-boston,44640102
+526,2015-05-28,"Tubular Bells (Opening Theme / From "The Exorcist")","Mike Oldfield",https://www.shazam.com/track/52684802/tubular-bells-opening-theme-from-the-exorcist,52684802
+527,2015-05-26,"To Ü (feat. AlunaGeorge)","Jack Ü, Skrillex & Diplo",https://www.shazam.com/track/236350632/to-%C3%BC-feat-alunageorge,236350632
+528,2015-05-22,"Baby Blue (feat. Chance the Rapper)","Action Bronson",https://www.shazam.com/track/233095509/baby-blue-feat-chance-the-rapper,233095509
+529,2015-05-18,"How Does It Make You Feel","Air",https://www.shazam.com/track/225729/how-does-it-make-you-feel,225729
+530,2015-05-08,"God Put a Smile Upon Your Face","Coldplay",https://www.shazam.com/track/20111509/god-put-a-smile-upon-your-face,11153162
+531,2015-05-06,"Smash (Original Mix)","Ummet Ozcan",https://www.shazam.com/track/129237721/smash-original-mix,129237721
+532,2015-05-05,"Spread Out","Braindead",https://www.shazam.com/track/157838872/spread-out,157838872
+533,2015-05-05,"Lil Star","Kelis & Cee-Lo",https://www.shazam.com/track/44518861/lil-star,44518861
+534,2015-05-01,"Look What You've Done","Jet",https://www.shazam.com/track/20122250/look-what-youve-done,20122250
+535,2015-04-09,"1990 (Live)","The Gambler",https://www.shazam.com/track/138343016/1990-live,138343016
+536,2015-04-09,"Total Hibernation (Funabashi Remix)","Komytea",https://www.shazam.com/track/81725048/total-hibernation-funabashi-remix,81725048
+537,2015-04-09,"Pentakill (feat. ReesaLunn)","Different Heaven",https://www.shazam.com/track/221297629/pentakill-feat-reesalunn,221297629
+538,2015-04-05,"Last Night a D.J. Saved My Life (David Jones Radio Mix)","Leony!",https://www.shazam.com/track/60570483/last-night-a-d-j-saved-my-life-david-jones-radio-mix,60570483
+539,2015-03-27,"Babylon","Babylon",https://www.shazam.com/track/79157503/babylon,79157503
+540,2015-03-16,"Bad Karma","Axel Thesleff",https://www.shazam.com/track/123367409/bad-karma,123367409
+541,2015-02-20,"Summer Moved On","a-ha",https://www.shazam.com/track/459047/summer-moved-on,459047
+542,2015-02-14,"Don't Wait (Benny Blanco Remix)","Mapei",https://www.shazam.com/track/110118112/dont-wait-benny-blanco-remix,110118112
+543,2015-02-10,"Desert Rose","Sting",https://www.shazam.com/track/20145276/desert-rose,10096576
+544,2015-02-07,"I'm an Albatraoz","AronChupa & Little Sis Nora",https://www.shazam.com/track/110637645/im-an-albatraoz,110637645
+545,2015-01-29,"Breezeblocks","alt-J",https://www.shazam.com/track/52956550/breezeblocks,52956550
+546,2015-01-19,"Desert Love","Ouzo Bazooka",https://www.shazam.com/track/141007851/desert-love,141007851
+547,2015-01-15,"Breezeblocks","alt-J",https://www.shazam.com/track/52956550/breezeblocks,52956550
+548,2015-01-10,"Moonage Daydream","David Bowie",https://www.shazam.com/track/228586/moonage-daydream,228586
